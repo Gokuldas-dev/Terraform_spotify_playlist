@@ -1,0 +1,1 @@
+this is a simpe program to create plyalist usding HCL language (terraform)
