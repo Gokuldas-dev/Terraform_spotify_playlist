@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     spotify = {
-      source = "conradludgate/spotify"
+      source  = "conradludgate/spotify"
       version = "0.2.7"
     }
   }
@@ -9,4 +9,5 @@ terraform {
 
 provider "spotify" {
   # Configuration options
+  api_key = ""
 }
